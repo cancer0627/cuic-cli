@@ -1,0 +1,27 @@
+{
+  "name": "cuic-cli",
+  "version": "1.0.0",
+  "description": "脚手架",
+  "main": "index.js",
+  "bin": {
+    "cuic": "cuic.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cancer0627/cuic-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cancer0627/cuic-cli/issues"
+  },
+  "homepage": "https://github.com/cancer0627/cuic-cli#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.1.1",
+    "shelljs": "^0.8.3"
+  }
+}
